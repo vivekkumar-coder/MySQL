@@ -72,3 +72,4 @@ FROM
 	FROM employee_demographics
 	GROUP BY gender) AS Agg_table
 ;
+

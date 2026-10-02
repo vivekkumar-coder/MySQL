@@ -49,7 +49,7 @@ ORDER BY gender, age DESC
 
 SELECT * 
 FROM employee_demographics
-ORDER BY age, gender #It is incorrect way
+ORDER BY age, gender --It is incorrect way
 ;
 
 SELECT *
